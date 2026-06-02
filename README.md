@@ -1,4 +1,4 @@
 # learn-git
 This is my first Git Repository
 <br>
-Author - Satyendra Bhardwaj 
+Author - Satyendra Bhardwaj (Apna College)
